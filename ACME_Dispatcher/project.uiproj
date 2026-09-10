@@ -1,0 +1,6 @@
+{
+  "Name": "ACME_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Dispacth ACME with Python",
+  "MainFile": "Main.xaml"
+}

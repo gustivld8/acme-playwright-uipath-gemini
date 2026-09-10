@@ -1,0 +1,6 @@
+{
+  "Name": "ACME_Performer",
+  "ProjectType": "Process",
+  "Description": "ACME Performer from Python",
+  "MainFile": "Main.xaml"
+}
